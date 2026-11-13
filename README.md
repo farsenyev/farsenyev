@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on frontend pet projects<br>I'm looking to collaborate on open source projects<br>I'm looking for help with frameworks and libraries<br>I'm currently learning React.js<br>Ask me about interesting facts from Frontend sphere
+I'm currently working on frontend pet projects<br>I'm currently learning React.js<br>Ask me about interesting facts from Frontend sphere
 
 
 ## 🌐 Socials:
